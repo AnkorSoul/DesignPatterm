@@ -1,0 +1,5 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\DesignPattern\2_AbstractFactory\bin\Debug\2_AbstractFactory.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\DesignPattern\2_AbstractFactory\bin\Debug\2_AbstractFactory.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\DesignPattern\2_AbstractFactory\bin\Debug\2_AbstractFactory.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\DesignPattern\2_AbstractFactory\obj\Debug\2_AbstractFactory.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\DesignPattern\2_AbstractFactory\obj\Debug\2_AbstractFactory.pdb

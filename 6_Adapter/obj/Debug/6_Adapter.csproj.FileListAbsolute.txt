@@ -1,0 +1,5 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\DesignPattern\6_Adapter\bin\Debug\6_Adapter.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\DesignPattern\6_Adapter\bin\Debug\6_Adapter.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\DesignPattern\6_Adapter\bin\Debug\6_Adapter.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\DesignPattern\6_Adapter\obj\Debug\6_Adapter.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\DesignPattern\6_Adapter\obj\Debug\6_Adapter.pdb

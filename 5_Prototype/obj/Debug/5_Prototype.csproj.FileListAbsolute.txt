@@ -1,0 +1,6 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\DesignPattern\5_Prototype\bin\Debug\5_Prototype.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\DesignPattern\5_Prototype\bin\Debug\5_Prototype.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\DesignPattern\5_Prototype\bin\Debug\5_Prototype.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\DesignPattern\5_Prototype\obj\Debug\5_Prototype.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\DesignPattern\5_Prototype\obj\Debug\5_Prototype.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\DesignPattern\5_Prototype\obj\Debug\5_Prototype.pdb

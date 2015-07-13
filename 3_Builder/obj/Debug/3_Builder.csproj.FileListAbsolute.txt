@@ -1,0 +1,5 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\DesignPattern\3_Builder\bin\Debug\3_Builder.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\DesignPattern\3_Builder\bin\Debug\3_Builder.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\DesignPattern\3_Builder\bin\Debug\3_Builder.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\DesignPattern\3_Builder\obj\Debug\3_Builder.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\DesignPattern\3_Builder\obj\Debug\3_Builder.pdb

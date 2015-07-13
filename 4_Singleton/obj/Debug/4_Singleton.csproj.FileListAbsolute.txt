@@ -1,0 +1,6 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\DesignPattern\4_Singleton\bin\Debug\4_Singleton.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\DesignPattern\4_Singleton\bin\Debug\4_Singleton.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\DesignPattern\4_Singleton\bin\Debug\4_Singleton.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\DesignPattern\4_Singleton\obj\Debug\4_Singleton.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\DesignPattern\4_Singleton\obj\Debug\4_Singleton.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\DesignPattern\4_Singleton\obj\Debug\4_Singleton.csprojResolveAssemblyReference.cache
