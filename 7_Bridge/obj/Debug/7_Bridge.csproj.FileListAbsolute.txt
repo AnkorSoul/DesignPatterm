@@ -4,3 +4,9 @@ C:\Users\Administrator\Documents\Visual Studio 2013\Projects\DesignPattern\7_Bri
 C:\Users\Administrator\Documents\Visual Studio 2013\Projects\DesignPattern\7_Bridge\bin\Debug\7_Bridge.pdb
 C:\Users\Administrator\Documents\Visual Studio 2013\Projects\DesignPattern\7_Bridge\obj\Debug\7_Bridge.exe
 C:\Users\Administrator\Documents\Visual Studio 2013\Projects\DesignPattern\7_Bridge\obj\Debug\7_Bridge.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\DesignPattern\DesignPatterm\7_Bridge\bin\Debug\7_Bridge.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\DesignPattern\DesignPatterm\7_Bridge\obj\Debug\7_Bridge.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\DesignPattern\DesignPatterm\7_Bridge\obj\Debug\7_Bridge.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\DesignPattern\DesignPatterm\7_Bridge\bin\Debug\7_Bridge.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\DesignPattern\DesignPatterm\7_Bridge\bin\Debug\7_Bridge.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\DesignPattern\DesignPatterm\7_Bridge\obj\Debug\7_Bridge.csprojResolveAssemblyReference.cache
