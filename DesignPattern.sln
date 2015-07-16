@@ -17,7 +17,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5_Prototype", "5_Prototype\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7_Bridge", "7_Bridge\7_Bridge.csproj", "{C33E1265-F3A4-4CBF-BDDA-1C14FF631645}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorate", "Decorate\Decorate.csproj", "{0CCDAF0B-AA96-4233-A32C-4468149BC9DC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8_Decorate", "Decorate\8_Decorate.csproj", "{0CCDAF0B-AA96-4233-A32C-4468149BC9DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9_ChainResponsibility", "ChainResponsibility\9_ChainResponsibility.csproj", "{F5D4D8D9-66D6-4AAF-BACC-432C5F19FBE7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{0CCDAF0B-AA96-4233-A32C-4468149BC9DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0CCDAF0B-AA96-4233-A32C-4468149BC9DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0CCDAF0B-AA96-4233-A32C-4468149BC9DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5D4D8D9-66D6-4AAF-BACC-432C5F19FBE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5D4D8D9-66D6-4AAF-BACC-432C5F19FBE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5D4D8D9-66D6-4AAF-BACC-432C5F19FBE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5D4D8D9-66D6-4AAF-BACC-432C5F19FBE7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
